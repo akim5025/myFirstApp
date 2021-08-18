@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="myName">Andrew</string>
+    <string name="teachName">Mrs. Denna</string>
+    <string name="classPeriod">1st</string>
+    <string name="buttonText">Start</string>
 </resources>
